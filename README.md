@@ -3,6 +3,7 @@ My first data analysis with Seatle Airbn dataset
 
 ## Introduction
 This repo explores the **Seatle Airbnb** dataset and try to fidure out some interesting insight.
+
   *1. What's is the time the house/apartment is cheapest and most available?*
   *2. How is the price affected by other variables?*
   *3. Where should we go to get the cheaper price?*
